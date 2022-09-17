@@ -32,13 +32,10 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 .title {
     margin: 0;
     text-align: center;
-
 }
 
 label {
-    
     font-weight: bold;
-    
 }
 
 
@@ -51,8 +48,7 @@ label {
     width: 2rem;
 }
 
-.password-display
-{
+.password-display {
     background-color: white;
     color: black;
     padding: 1rem;
